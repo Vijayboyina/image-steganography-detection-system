@@ -89,8 +89,6 @@ python main.py
 ## 🖼️ Screenshots
 
 ```
-<img width="1636" height="995" alt="gui" src="https://github.com/user-attachments/assets/d15de0e1-90be-4158-8aea-314572502f55" />
-<img width="1915" height="987" alt="output" src="https://github.com/user-attachments/assets/8a82ca8a-e6ee-4dac-b6dd-4b6d84f6c8d0" />
 
 
 ```
